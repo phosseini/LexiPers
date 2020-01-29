@@ -24,7 +24,7 @@ We encourage you to submit issues or enhancement suggestions here in this reposi
 Feel free to reach out to [Pedram Hosseini](mailto:pdr.hosseini@gmail.com) with any questions.
 
 ### Citation Information
-If you found LexiPers interesting or used it in your work, please use the following information for citation:
+LexiPers was developed as part of a collaboration between Sharif University of Technology's NLP Lab and University of Guilan's NLP group. If you found LexiPers interesting or used it in your work, please use the following information for citation:
 
 ```
 @inproceedings{sabeti2016lexipers,
