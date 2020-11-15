@@ -37,7 +37,7 @@ Feel free to reach out to [Pedram Hosseini](mailto:pdr.hosseini@gmail.com) with 
 ### Citation Information
 LexiPers was developed as part of a collaboration between Sharif University of Technology's NLP Lab and University of Guilan's NLP group. If you found LexiPers interesting or used it in your work, please use the following information for citation:
 
-```
+```bibtex
 @inproceedings{sabeti2016lexipers,
   title={LexiPers: An ontology based sentiment lexicon for Persian},
   author={Sabeti, Behnam and Hosseini, Pedram and Ghassem-Sani, Gholamreza and Mirroshandel, Seyed Abolghasem},
