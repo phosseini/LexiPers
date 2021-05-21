@@ -1,6 +1,6 @@
 # LexiPers: A Sentiment Analysis Lexicon for Persian
 
-[![DOI:10.29007/f4j4](https://zenodo.org/badge/DOI/10.29007/f4j4.svg)](https://doi.org/10.29007/f4j4)
+<!--- [![DOI:10.29007/f4j4](https://zenodo.org/badge/DOI/10.29007/f4j4.svg)](https://doi.org/10.29007/f4j4) --->
 
 <div dir='rtl'>
 
